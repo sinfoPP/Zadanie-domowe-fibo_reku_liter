@@ -5,8 +5,8 @@
 #include <stdlib.h>
 
 
-//wersja literacyjnie
-unsigned int fib_liter(int n)
+//wersja iteracyjnie
+unsigned int fib_iter(int n)
 {
 	int a = 0;
 	int b = 1;
